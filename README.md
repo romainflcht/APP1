@@ -13,7 +13,7 @@ les consignes se trouvent ici : [APP1_sujet.pdf](APP1_sujet.pdf)
 - Travailler dans un environnement semblable à un environnement **professionnel**.
 
 ## Execution
-Pour démarrer le programme il suffit d'exécuter le fichier python **main.py**
+Pour démarrer le programme il suffit d'exécuter le fichier python `main.py`
 - Windows
 ```
 python main.py
